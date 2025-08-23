@@ -64,7 +64,7 @@ I hold a Bachelor's in Technology in Electrical Engineering from the Indian Inst
   </a>
   
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="flask" width="40" height="40"/>
   </a>
 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
